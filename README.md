@@ -49,6 +49,6 @@ This project implements an ETL (Extract, Transform, Load) process that fetches d
 
 ### Possible changes
 
-Instead of `psycopg2` library you can use `sqlalchemy library.
+Instead of `psycopg2` library you can use `sqlalchemy` library.
 
 
